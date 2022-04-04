@@ -1,0 +1,3 @@
+第一步将词典分别放入duc.txt 和 geosubstance.txt
+第二步将docx放入extracttext文件中运行replist.py将docx清洗获得一个清洗后的文本
+第三步清洗后文本放入extracttext文件中运行extract.py文件词性抽取里面相关词典

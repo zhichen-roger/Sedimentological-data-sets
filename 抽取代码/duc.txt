@@ -1,0 +1,13 @@
+Cretaceous
+Berriasian
+Valanginian
+Hauterivian
+Barremian
+Aptian
+Albian
+Cenomanian
+Turonian
+Coniacian
+Santonian
+Campanian
+Maastrichtian
